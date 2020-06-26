@@ -1,0 +1,423 @@
+﻿COMPANY & TICKER,,REC DATE,RISK,MARKET CAP,CURRENT PRICE,ADJ REC PRICE,RETURN,S&P RETURN,VS. S&P RETURN,FAVORITES
+,STAAR Surgical,6/25/20,10,$3B,$60.01 ,,0.00%,0.00%,0.00%,Add STAA to your Favorites
+,STAA New!,,,,,,,,,
+,HubSpot,6/11/20,12,$10B,$221.75 ,$200.86 ,9.10%,1.70%,7.40%,Add HUBS to your Favorites
+,HUBS New!,,,,,,,,,
+,Livongo Health Inc,5/28/20,13,$7B,$71.55 ,$57.85 ,27.70%,0.80%,26.90%,Add LVGO to your Favorites
+,LVGO,,,,,,,,,
+,Quidel,5/14/20,10,$8B,$207.88 ,$185.73 ,8.00%,7.20%,0.80%,Add QDEL to your Favorites
+,QDEL,,,,,,,,,
+,"Beyond Meat, Inc.",4/23/20,15,$9B,$145.35 ,$99.78 ,51.70%,9.40%,42.30%,Add BYND to your Favorites
+,BYND,,,,,,,,,
+,DocuSign,4/9/20,13,$30B,$168.40 ,$90.63 ,80.90%,9.80%,71.10%,Add DOCU to your Favorites
+,DOCU Now Starter,,,,,,,,,
+,Quidel,3/26/20,10,$8B,$207.88 ,$88.97 ,125.40%,16.60%,108.80%,Add QDEL to your Favorites
+,QDEL,,,,,,,,,
+,CoStar Group,3/12/20,8,$27B,$706.23 ,$612.93 ,12.80%,23.70%,-10.90%,Add CSGP to your Favorites
+,CSGP,,,,,,,,,
+,Sea Limited,2/27/20,15,$49B,$104.32 ,$45.07 ,130.00%,3.10%,126.90%,Add SE to your Favorites
+,SE,,,,,,,,,
+,NextEra Energy,2/13/20,14,$118B,$239.16 ,$272.54 ,-11.30%,-8.90%,-2.40%,Add NEE to your Favorites
+,NEE Starter,,,,,,,,,
+,Pinterest,1/23/20,10,$14B,$22.58 ,$22.61 ,2.50%,-7.50%,10.00%,Add PINS to your Favorites
+,PINS Now,,,,,,,,,
+,Intuitive Surgical,1/9/20,7,$65B,$555.11 ,$585.79 ,-5.30%,-6.00%,0.70%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,Freshpet,12/19/19,10,$3B,$88.69 ,$57.84 ,50.00%,-3.90%,53.90%,Add FRPT to your Favorites
+,FRPT,,,,,,,,,
+,Insulet,12/5/19,14,$13B,$193.44 ,$184.23 ,4.30%,-1.10%,5.40%,Add PODD to your Favorites
+,PODD,,,,,,,,,
+,Peloton Interactive,11/27/19,13,$16B,$58.06 ,$32.16 ,72.70%,-2.20%,74.90%,Add PTON to your Favorites
+,PTON,,,,,,,,,
+,Etsy,11/14/19,11,$12B,$101.28 ,$41.84 ,134.60%,-0.30%,134.90%,Add ETSY to your Favorites
+,ETSY,,,,,,,,,
+,Datadog,10/24/19,10,$26B,$89.60 ,$32.50 ,172.30%,2.70%,169.60%,Add DDOG to your Favorites
+,DDOG,,,,,,,,,
+,Novocure,10/10/19,9,$6B,$57.20 ,$75.49 ,-21.40%,5.30%,-26.70%,Add NVCR to your Favorites
+,NVCR,,,,,,,,,
+,Zuora,9/26/19,9,$1B,$13.13 ,$15.99 ,-20.00%,4.00%,-24.00%,Add ZUO to your Favorites
+,ZUO,,,,,,,,,
+,Teladoc Health,9/12/19,10,$15B,$201.70 ,$69.05 ,185.30%,2.90%,182.40%,Add TDOC to your Favorites
+,TDOC Starter,,,,,,,,,
+,Fastly,8/22/19,14,$8B,$81.67 ,$24.53 ,210.10%,6.10%,204.00%,Add FSLY to your Favorites
+,FSLY,,,,,,,,,
+,New Oriental Education & Technology Group,8/8/19,10,$21B,$132.98 ,$104.22 ,26.80%,5.70%,21.10%,Add EDU to your Favorites
+,EDU,,,,,,,,,
+,Repligen,7/25/19,12,$6B,$114.52 ,$90.90 ,24.50%,3.40%,21.00%,Add RGEN to your Favorites
+,RGEN,,,,,,,,,
+,Roku,7/11/19,10,$15B,$123.60 ,$104.54 ,18.00%,3.60%,14.40%,Add ROKU to your Favorites
+,ROKU Starter,,,,,,,,,
+,Novocure,6/27/19,9,$6B,$57.20 ,$60.85 ,-2.50%,6.40%,-8.80%,Add NVCR to your Favorites
+,NVCR,,,,,,,,,
+,Zillow Group (A shares),6/13/19,14,$13B,$58.86 ,$45.35 ,30.10%,7.60%,22.50%,Add ZG to your Favorites
+,ZG,,,,,,,,,
+,Uber Technologies,5/23/19,14,$53B,$30.58 ,$40.47 ,-24.70%,10.40%,-35.20%,Add UBER to your Favorites
+,UBER,,,,,,,,,
+,Salesforce.com,5/9/19,8,$167B,$188.34 ,$156.31 ,18.70%,8.70%,10.00%,CRM is in your Favorites
+,CRM Starter,,,,,,,,,
+,ShockWave Medical,4/25/19,16,$2B,$45.48 ,$38.54 ,16.50%,6.70%,9.80%,Add SWAV to your Favorites
+,SWAV,,,,,,,,,
+,Five Below,4/11/19,10,$6B,$105.56 ,$133.55 ,-20.30%,8.20%,-28.50%,Add FIVE to your Favorites
+,FIVE,,,,,,,,,
+,Xilinx,3/28/19,7,$23B,$93.29 ,$124.15 ,-25.20%,11.00%,-36.20%,Add XLNX to your Favorites
+,XLNX,,,,,,,,,
+,Roku,3/14/19,10,$15B,$123.60 ,$61.82 ,99.50%,11.40%,88.20%,Add ROKU to your Favorites
+,ROKU Starter,,,,,,,,,
+,Redfin,2/28/19,16,$4B,$40.41 ,$19.97 ,90.70%,12.40%,78.20%,Add RDFN to your Favorites
+,RDFN Now,,,,,,,,,
+,Guardant Health,2/14/19,15,$8B,$82.81 ,$48.87 ,66.30%,14.20%,52.20%,Add GH to your Favorites
+,GH,,,,,,,,,
+,NextEra Energy,1/24/19,14,$118B,$239.16 ,$174.15 ,38.80%,18.80%,20.00%,Add NEE to your Favorites
+,NEE Starter,,,,,,,,,
+,Skechers,1/10/19,11,$5B,$30.14 ,$24.90 ,22.10%,20.90%,1.20%,Add SKX to your Favorites
+,SKX,,,,,,,,,
+,Bilibili,12/20/18,13,$15B,$44.57 ,$14.63 ,201.00%,27.40%,173.50%,Add BILI to your Favorites
+,BILI,,,,,,,,,
+,Zendesk,12/6/18,10,$9B,$84.76 ,$59.88 ,36.50%,16.70%,19.80%,Add ZEN to your Favorites
+,ZEN,,,,,,,,,
+,Guardant Health,11/21/18,15,$8B,$82.81 ,$37.16 ,118.70%,18.80%,99.80%,Add GH to your Favorites
+,GH,,,,,,,,,
+,Upwork,11/8/18,10,$1B,$14.21 ,$18.07 ,-28.50%,12.30%,-40.80%,Add UPWK to your Favorites
+,UPWK,,,,,,,,,
+,Upwork,10/25/18,10,$1B,$14.21 ,$19.50 ,-33.70%,16.60%,-50.40%,Add UPWK to your Favorites
+,UPWK,,,,,,,,,
+,Electronic Arts,10/11/18,8,$38B,$130.74 ,$103.60 ,26.30%,15.70%,10.60%,Add EA to your Favorites
+,EA Starter,,,,,,,,,
+,GoDaddy,9/27/18,9,$13B,$74.79 ,$83.20 ,-9.20%,8.40%,-17.60%,Add GDDY to your Favorites
+,GDDY,,,,,,,,,
+,Twilio,9/13/18,14,$30B,$216.52 ,$85.31 ,148.70%,8.80%,139.90%,TWLO is in your Favorites
+,TWLO,,,,,,,,,
+,Stitch Fix,8/23/18,11,$2B,$23.22 ,$36.57 ,-36.20%,10.80%,-47.00%,Add SFIX to your Favorites
+,SFIX,,,,,,,,,
+,Yandex,8/9/18,12,$16B,$50.55 ,$31.82 ,58.10%,11.00%,47.00%,Add YNDX to your Favorites
+,YNDX,,,,,,,,,
+,DocuSign,7/26/18,13,$30B,$168.40 ,$55.51 ,195.30%,11.80%,183.50%,Add DOCU to your Favorites
+,DOCU Now Starter,,,,,,,,,
+,MongoDB,7/12/18,11,$13B,$224.03 ,$57.88 ,276.40%,13.30%,263.00%,Add MDB to your Favorites
+,MDB,,,,,,,,,
+,Baozun,6/28/18,11,$3B,$40.36 ,$54.55 ,-27.00%,16.90%,-43.80%,Add BZUN to your Favorites
+,BZUN,,,,,,,,,
+,iQiyi,6/14/18,17,$17B,$22.57 ,$40.51 ,-43.40%,14.10%,-57.60%,Add IQ to your Favorites
+,IQ,,,,,,,,,
+,Salesforce.com Corporate Action Details,5/24/18,8,$167B,$188.34 ,$106.58 ,110.20%,16.60%,93.60%,CRM is in your Favorites
+,CRM Starter,,,,,,,,,
+,HubSpot,5/10/18,12,$10B,$221.75 ,$117.65 ,86.20%,16.90%,69.30%,Add HUBS to your Favorites
+,HUBS,,,,,,,,,
+,iQiyi,4/25/18,17,$17B,$22.57 ,$18.01 ,27.30%,20.70%,6.60%,Add IQ to your Favorites
+,IQ,,,,,,,,,
+,Axon Enterprise,4/25/18,9,$6B,$95.95 ,$43.00 ,117.30%,20.70%,96.60%,Add AAXN to your Favorites
+,AAXN,,,,,,,,,
+,Bristol Myers Squibb Corporate Action Details,3/28/18,13,$131B,$58.18 ,$47.18 ,25.10%,22.40%,2.70%,Add BMY to your Favorites
+,BMY,,,,,,,,,
+,Nutanix,3/28/18,13,$5B,$21.64 ,$47.94 ,-52.70%,22.40%,-75.10%,Add NTNX to your Favorites
+,NTNX,,,,,,,,,
+,Palo Alto Networks,2/28/18,10,$22B,$226.90 ,$173.37 ,28.90%,17.70%,11.20%,Add PANW to your Favorites
+,PANW,,,,,,,,,
+,MongoDB,2/28/18,11,$13B,$224.03 ,$32.21 ,576.30%,17.70%,558.60%,Add MDB to your Favorites
+,MDB,,,,,,,,,
+,AnaptysBio,1/24/18,18,$634M,$24.00 ,$116.91 ,-80.10%,12.80%,-93.00%,Add ANAB to your Favorites
+,ANAB,,,,,,,,,
+,Alteryx,1/24/18,11,$10B,$164.25 ,$27.83 ,468.80%,12.80%,455.90%,Add AYX to your Favorites
+,AYX,,,,,,,,,
+,Editas Medicine,12/20/17,17,$2B,$31.41 ,$24.89 ,23.50%,19.60%,3.80%,Add EDIT to your Favorites
+,EDIT,,,,,,,,,
+,Camping World Holdings,11/22/17,11,$2B,$25.86 ,$38.01 ,-33.20%,23.60%,-56.80%,Add CWH to your Favorites
+,CWH,,,,,,,,,
+,Teladoc Health,11/22/17,10,$15B,$201.70 ,$34.00 ,479.40%,23.60%,455.80%,Add TDOC to your Favorites
+,TDOC Starter,,,,,,,,,
+,Abiomed,10/25/17,6,$11B,$241.75 ,$171.37 ,41.00%,25.80%,15.20%,Add ABMD to your Favorites
+,ABMD,,,,,,,,,
+,Editas Medicine,9/27/17,17,$2B,$31.41 ,$19.93 ,54.20%,28.50%,25.70%,Add EDIT to your Favorites
+,EDIT,,,,,,,,,
+,Tencent Holdings,9/27/17,5,"$4,651B",$62.75 ,$43.00 ,46.40%,28.50%,18.00%,Add TCEHY to your Favorites
+,TCEHY,,,,,,,,,
+,Align Technology,8/23/17,11,$20B,$257.43 ,$172.85 ,49.10%,32.00%,17.00%,Add ALGN to your Favorites
+,ALGN,,,,,,,,,
+,HubSpot,8/23/17,12,$10B,$221.75 ,$69.40 ,215.70%,32.00%,183.70%,Add HUBS to your Favorites
+,HUBS,,,,,,,,,
+,First Solar,7/26/17,13,$5B,$50.38 ,$45.44 ,8.00%,30.50%,-22.50%,Add FSLR to your Favorites
+,FSLR,,,,,,,,,
+,Live Nation Entertainment,7/26/17,11,$9B,$44.17 ,$36.70 ,20.40%,30.50%,-10.10%,Add LYV to your Favorites
+,LYV,,,,,,,,,
+,Bluebird Bio,6/28/17,15,$4B,$62.35 ,$109.10 ,-41.70%,32.60%,-74.30%,Add BLUE to your Favorites
+,BLUE,,,,,,,,,
+,The Trade Desk,5/24/17,12,$18B,$409.71 ,$51.50 ,669.60%,34.90%,634.80%,TTD is in your Favorites
+,TTD,,,,,,,,,
+,Momo,5/24/17,7,$4B,$17.82 ,$36.76 ,-49.80%,34.90%,-84.60%,Add MOMO to your Favorites
+,MOMO,,,,,,,,,
+,MercadoLibre,4/26/17,10,$47B,$971.44 ,$227.91 ,318.50%,36.10%,282.40%,Add MELI to your Favorites
+,MELI Starter,,,,,,,,,
+,Abiomed,4/26/17,6,$11B,$241.75 ,$130.08 ,85.80%,36.10%,49.70%,Add ABMD to your Favorites
+,ABMD,,,,,,,,,
+,Veeva Systems,3/22/17,7,$35B,$236.82 ,$48.99 ,378.30%,38.50%,339.70%,Add VEEV to your Favorites
+,VEEV,,,,,,,,,
+,Live Nation Entertainment,3/22/17,11,$9B,$44.17 ,$28.75 ,53.70%,38.50%,15.10%,Add LYV to your Favorites
+,LYV,,,,,,,,,
+,The Trade Desk,2/22/17,12,$18B,$409.71 ,$34.30 ,1055.60%,38.00%,1017.60%,TTD is in your Favorites
+,TTD,,,,,,,,,
+,Trex,2/22/17,10,$7B,$122.95 ,$32.90 ,272.90%,38.00%,234.90%,Add TREX to your Favorites
+,TREX,,,,,,,,,
+,Twilio,1/25/17,14,$30B,$216.52 ,$29.05 ,630.40%,42.10%,588.30%,TWLO is in your Favorites
+,TWLO,,,,,,,,,
+,Twitter,1/25/17,8,$25B,$31.37 ,$16.73 ,89.70%,42.10%,47.60%,Add TWTR to your Favorites
+,TWTR,,,,,,,,,
+,Impinj,12/21/16,15,$613M,$27.27 ,$38.33 ,-29.50%,44.40%,-73.90%,Add PI to your Favorites
+,PI,,,,,,,,,
+,Camping World Holdings,12/21/16,11,$2B,$25.86 ,$28.33 ,-10.30%,44.40%,-54.70%,Add CWH to your Favorites
+,CWH,,,,,,,,,
+,Ubiquiti Inc.,11/23/16,9,$11B,$168.87 ,$55.95 ,197.90%,48.60%,149.30%,Add UI to your Favorites
+,UI,,,,,,,,,
+,Etsy,11/23/16,11,$12B,$101.28 ,$13.12 ,648.20%,48.60%,599.60%,Add ETSY to your Favorites
+,ETSY,,,,,,,,,
+,2U,10/26/16,15,$2B,$35.81 ,$35.74 ,-0.30%,53.50%,-53.80%,Add TWOU to your Favorites
+,TWOU,,,,,,,,,
+,ResMed,10/26/16,7,$26B,$186.30 ,$57.25 ,217.60%,53.50%,164.20%,Add RMD to your Favorites
+,RMD,,,,,,,,,
+,Atlassian,9/28/16,8,$44B,$180.36 ,$30.00 ,489.40%,51.40%,438.00%,Add TEAM to your Favorites
+,TEAM,,,,,,,,,
+,Chipotle Mexican Grill,9/28/16,11,$29B,"$1,048.90 ",$418.31 ,150.50%,51.40%,99.10%,CMG is in your Favorites
+,CMG,,,,,,,,,
+,Gartner,8/24/16,11,$10B,$119.19 ,$90.11 ,28.40%,51.40%,-23.00%,Add IT to your Favorites
+,IT,,,,,,,,,
+,Under Armour (C Shares),8/24/16,14,$4B,$8.67 ,$38.88 ,-77.90%,51.40%,-129.30%,Add UA to your Favorites
+,UA,,,,,,,,,
+,MicroStrategy,7/27/16,10,$1B,$117.79 ,$182.98 ,-37.50%,52.40%,-89.80%,Add MSTR to your Favorites
+,MSTR,,,,,,,,,
+,2U,7/27/16,15,$2B,$35.81 ,$35.25 ,1.00%,52.40%,-51.30%,Add TWOU to your Favorites
+,TWOU,,,,,,,,,
+,NuVasive,6/22/16,16,$3B,$52.97 ,$57.79 ,-5.10%,58.50%,-63.60%,Add NUVA to your Favorites
+,NUVA,,,,,,,,,
+,Electronic Arts,6/22/16,8,$38B,$130.74 ,$74.80 ,75.00%,58.50%,16.40%,Add EA to your Favorites
+,EA Starter,,,,,,,,,
+,NetEase,5/25/16,6,$60B,$436.06 ,$164.26 ,166.30%,58.40%,107.90%,Add NTES to your Favorites
+,NTES,,,,,,,,,
+,"Axos Financial, Inc.",4/27/16,11,$1B,$20.28 ,$19.43 ,3.60%,58.40%,-54.80%,Add AX to your Favorites
+,AX,,,,,,,,,
+,Broadcom Ltd Corporate Action Details,4/27/16,11,$123B,$308.85 ,$195.08 ,130.20%,58.40%,71.80%,Add AVGO to your Favorites
+,AVGO,,,,,,,,,
+,Shopify,3/23/16,12,$107B,$916.32 ,$26.20 ,3323.70%,63.20%,3260.50%,SHOP is in your Favorites
+,SHOP Starter,,,,,,,,,
+,Workday,3/23/16,8,$42B,$186.26 ,$71.26 ,152.70%,63.20%,89.50%,WDAY is in your Favorites
+,WDAY,,,,,,,,,
+,Shopify,2/24/16,12,$107B,$916.32 ,$21.02 ,4167.40%,72.60%,4094.80%,SHOP is in your Favorites
+,SHOP Starter,,,,,,,,,
+,Planet Fitness,1/27/16,13,$6B,$64.87 ,$11.93 ,449.90%,77.30%,372.70%,Add PLNT to your Favorites
+,PLNT,,,,,,,,,
+,Intercontinental Exchange,1/27/16,11,$50B,$92.83 ,$47.73 ,90.00%,77.30%,12.80%,Add ICE to your Favorites
+,ICE,,,,,,,,,
+,CyberArk Software,11/25/15,11,$4B,$97.27 ,$44.42 ,117.80%,60.30%,57.50%,Add CYBR to your Favorites
+,CYBR,,,,,,,,,
+,Take-Two Interactive,11/25/15,7,$15B,$140.40 ,$35.62 ,292.70%,60.30%,232.40%,Add TTWO to your Favorites
+,TTWO,,,,,,,,,
+,Axon Enterprise,10/28/15,9,$6B,$95.95 ,$23.48 ,297.90%,60.60%,237.40%,Add AAXN to your Favorites
+,AAXN,,,,,,,,,
+,Biogen Corporate Action Details,10/28/15,10,$43B,$262.63 ,N/A Corporate Action Details,7.60%,58.30%,-50.80%,Add BIIB to your Favorites
+,BIIB,,,,,,,,,
+,Skechers,9/23/15,11,$5B,$30.14 ,$47.57 ,-36.10%,73.40%,-109.50%,Add SKX to your Favorites
+,SKX,,,,,,,,,
+,Wayfair,8/26/15,13,$19B,$205.12 ,$43.05 ,366.20%,73.50%,292.70%,Add W to your Favorites
+,W,,,,,,,,,
+,NXP Semiconductors,7/22/15,14,$32B,$113.37 ,$88.02 ,28.40%,59.60%,-31.20%,Add NXPI to your Favorites
+,NXPI,,,,,,,,,
+,Skyworks Solutions,7/22/15,8,$21B,$127.30 ,$92.12 ,37.20%,59.60%,-22.40%,Add SWKS to your Favorites
+,SWKS,,,,,,,,,
+,Dave & Buster's Entertainment,6/24/15,11,$673M,$13.82 ,$35.95 ,-60.60%,60.30%,-120.80%,Add PLAY to your Favorites
+,PLAY Hold,,,,,,,,,
+,Lions Gate Entertainment Corporation Class B Corporate Action Details,5/27/15,18,$2B,$6.75 ,$7.99 ,-77.60%,59.40%,-137.00%,Add LGF.B to your Favorites
+,LGF.B,,,,,,,,,
+,Cerner,4/22/15,10,$21B,$68.36 ,$71.47 ,-4.00%,60.90%,-64.90%,Add CERN to your Favorites
+,CERN,,,,,,,,,
+,Euronet Worldwide,3/25/15,10,$5B,$92.27 ,$56.56 ,63.00%,64.80%,-1.80%,Add EEFT to your Favorites
+,EEFT,,,,,,,,,
+,TripAdvisor,2/25/15,13,$2B,$18.34 ,$79.30 ,-77.10%,60.90%,-138.00%,Add TRIP to your Favorites
+,TRIP,,,,,,,,,
+,Baidu,2/25/15,7,$42B,$123.73 ,$203.53 ,-40.40%,60.90%,-101.30%,Add BIDU to your Favorites
+,BIDU,,,,,,,,,
+,TrueCar,1/28/15,13,$287M,$2.70 ,$17.93 ,-85.00%,70.30%,-155.30%,Add TRUE to your Favorites
+,TRUE Hold,,,,,,,,,
+,Bluebird Bio,1/28/15,15,$4B,$62.35 ,$94.82 ,-32.90%,70.30%,-103.20%,Add BLUE to your Favorites
+,BLUE,,,,,,,,,
+,MercadoLibre,12/23/14,10,$47B,$971.44 ,$125.11 ,662.40%,64.00%,598.40%,Add MELI to your Favorites
+,MELI Starter,,,,,,,,,
+,Zendesk,12/23/14,10,$9B,$84.76 ,$24.55 ,233.00%,64.00%,169.10%,Add ZEN to your Favorites
+,ZEN,,,,,,,,,
+,SS&C Technologies Holdings,11/25/14,11,$14B,$55.07 ,$24.23 ,129.00%,65.40%,63.60%,Add SSNC to your Favorites
+,SSNC,,,,,,,,,
+,Arista Networks,11/25/14,5,$16B,$211.98 ,$73.74 ,183.80%,65.40%,118.40%,Add ANET to your Favorites
+,ANET,,,,,,,,,
+,Veeva Systems,9/24/14,7,$35B,$236.82 ,$28.83 ,712.70%,71.70%,641.00%,Add VEEV to your Favorites
+,VEEV,,,,,,,,,
+,Proto Labs,8/27/14,16,$3B,$112.05 ,$76.05 ,41.30%,71.80%,-30.50%,Add PRLB to your Favorites
+,PRLB,,,,,,,,,
+,MicroStrategy,7/23/14,10,$1B,$117.79 ,$138.37 ,-17.30%,73.30%,-90.70%,Add MSTR to your Favorites
+,MSTR,,,,,,,,,
+,CalAmp,6/25/14,19,$259M,$7.68 ,$20.47 ,-63.20%,76.00%,-139.20%,Add CAMP to your Favorites
+,CAMP Hold,,,,,,,,,
+,Align Technology,6/25/14,11,$20B,$257.43 ,$54.05 ,376.70%,76.00%,300.70%,Add ALGN to your Favorites
+,ALGN,,,,,,,,,
+,Insulet,5/28/14,14,$13B,$193.44 ,$36.45 ,427.00%,80.80%,346.20%,Add PODD to your Favorites
+,PODD,,,,,,,,,
+,Splunk,5/28/14,12,$30B,$193.04 ,$48.88 ,290.00%,80.80%,209.10%,Add SPLK to your Favorites
+,SPLK,,,,,,,,,
+,Five Below,4/23/14,10,$6B,$105.56 ,$38.56 ,176.00%,84.60%,91.40%,Add FIVE to your Favorites
+,FIVE,,,,,,,,,
+,Palo Alto Networks,4/23/14,10,$22B,$226.90 ,$69.05 ,223.50%,84.60%,138.90%,Add PANW to your Favorites
+,PANW,,,,,,,,,
+,NuVasive,3/26/14,16,$3B,$52.97 ,$37.23 ,47.40%,87.10%,-39.80%,Add NUVA to your Favorites
+,NUVA,,,,,,,,,
+,Zillow Group (A shares) and Zillow Group (C shares) Corporate Action Details,2/26/14,14,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,110.80%,88.10%,22.60%,N/A Corporate Action Details
+,ZG Z,,,,,,,,,
+,Ubiquiti Inc.,1/22/14,9,$11B,$168.87 ,$42.78 ,289.60%,88.60%,201.00%,Add UI to your Favorites
+,UI,,,,,,,,,
+,Twitter,12/18/13,8,$25B,$31.37 ,$55.51 ,-42.80%,92.50%,-135.30%,Add TWTR to your Favorites
+,TWTR,,,,,,,,,
+,Ionis Pharmaceuticals,11/27/13,11,$8B,$61.05 ,$39.28 ,50.50%,93.10%,-42.60%,Add IONS to your Favorites
+,IONS,,,,,,,,,
+,Yelp,11/27/13,13,$2B,$22.21 ,$61.54 ,-62.80%,93.10%,-155.80%,Add YELP to your Favorites
+,YELP,,,,,,,,,
+,Middleby,10/23/13,15,$4B,$75.13 ,$74.88 ,1.70%,100.30%,-98.60%,Add MIDD to your Favorites
+,MIDD,,,,,,,,,
+,CoStar Group,9/25/13,8,$27B,$706.23 ,$164.78 ,319.60%,106.90%,212.70%,Add CSGP to your Favorites
+,CSGP,,,,,,,,,
+,Alnylam Pharmaceuticals,7/24/13,13,$18B,$156.44 ,$44.95 ,237.60%,108.60%,129.00%,Add ALNY to your Favorites
+,ALNY,,,,,,,,,
+,Sirius XM Radio Corporate Action Details,6/26/13,8,$25B,$5.82 ,$12.23 ,-52.50%,119.60%,-172.10%,Add SIRI to your Favorites
+,SIRI,,,,,,,,,
+,Chart Industries,6/26/13,13,$1B,$41.60 ,$91.36 ,-56.00%,119.60%,-175.60%,Add GTLS to your Favorites
+,GTLS,,,,,,,,,
+,"Axos Financial, Inc.",5/22/13,11,$1B,$20.28 ,$9.81 ,105.20%,113.10%,-7.90%,Add AX to your Favorites
+,AX,,,,,,,,,
+,Seattle Genetics,4/24/13,13,$29B,$167.86 ,$36.53 ,351.10%,123.90%,227.20%,Add SGEN to your Favorites
+,SGEN,,,,,,,,,
+,Middleby,3/27/13,15,$4B,$75.13 ,$50.19 ,51.70%,126.50%,-74.80%,Add MIDD to your Favorites
+,MIDD,,,,,,,,,
+,Equinix,3/27/13,12,$61B,$696.84 ,$175.92 ,292.00%,126.50%,165.60%,Add EQIX to your Favorites
+,EQIX,,,,,,,,,
+,Bristol Myers Squibb Corporate Action Details,2/27/13,13,$131B,$58.18 ,$26.96 ,119.00%,133.80%,-14.80%,Add BMY to your Favorites
+,BMY,,,,,,,,,
+,Intuitive Surgical,1/23/13,7,$65B,$555.11 ,$189.02 ,193.60%,137.80%,55.80%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,"Interface, Inc.",12/19/12,14,$441M,$7.59 ,$14.52 ,-48.10%,148.00%,-196.00%,Add TILE to your Favorites
+,TILE,,,,,,,,,
+,AMC Networks,12/19/12,13,$1B,$24.40 ,$49.70 ,-49.40%,148.00%,-197.40%,Add AMCX to your Favorites
+,AMCX,,,,,,,,,
+,"Axos Financial, Inc.",11/21/12,11,$1B,$20.28 ,$6.52 ,208.90%,156.50%,52.40%,Add AX to your Favorites
+,AX,,,,,,,,,
+,MasTec,11/21/12,8,$3B,$43.47 ,$22.54 ,85.00%,156.50%,-71.50%,Add MTZ to your Favorites
+,MTZ,,,,,,,,,
+,Facebook,10/24/12,5,$667B,$235.68 ,$23.23 ,907.40%,153.80%,753.60%,FB is in your Favorites
+,FB,,,,,,,,,
+,Yandex,9/26/12,12,$16B,$50.55 ,$23.35 ,115.40%,149.80%,-34.40%,Add YNDX to your Favorites
+,YNDX,,,,,,,,,
+,Facebook,7/25/12,5,$667B,$235.68 ,$29.34 ,697.60%,168.80%,528.80%,FB is in your Favorites
+,FB,,,,,,,,,
+,Trex,7/25/12,10,$7B,$122.95 ,$6.77 ,1712.90%,168.80%,1544.10%,Add TREX to your Favorites
+,TREX,,,,,,,,,
+,Proto Labs,6/27/12,16,$3B,$112.05 ,$30.02 ,258.00%,170.40%,87.60%,Add PRLB to your Favorites
+,PRLB,,,,,,,,,
+,TripAdvisor,5/23/12,13,$2B,$18.34 ,$40.15 ,-54.80%,173.60%,-228.40%,Add TRIP to your Favorites
+,TRIP,,,,,,,,,
+,Zillow Group (C shares) and Zillow Group (A shares) Corporate Action Details,4/25/12,14,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,441.90%,160.00%,281.80%,N/A Corporate Action Details
+,Z ZG,,,,,,,,,
+,MercadoLibre,1/25/12,10,$47B,$971.44 ,$86.09 ,1007.90%,174.20%,833.80%,Add MELI to your Favorites
+,MELI Starter,,,,,,,,,
+,Intuitive Surgical,1/25/12,7,$65B,$555.11 ,$151.89 ,265.40%,174.20%,91.20%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,Salesforce.com,12/21/11,8,$167B,$188.34 ,$24.76 ,649.50%,192.80%,456.70%,CRM is in your Favorites
+,CRM Starter,,,,,,,,,
+,Tesla,11/23/11,17,$178B,$985.98 ,$31.45 ,2955.20%,214.00%,2741.10%,TSLA is in your Favorites
+,TSLA,,,,,,,,,
+,Zillow Group (A shares) and Zillow Group (C shares) Corporate Action Details,9/28/11,14,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,540.00%,218.10%,322.00%,N/A Corporate Action Details
+,ZG Z,,,,,,,,,
+,Emergent BioSolutions,4/27/11,15,$4B,$76.10 ,$22.28 ,228.30%,172.60%,55.80%,Add EBS to your Favorites
+,EBS,,,,,,,,,
+,NXP Semiconductors,3/23/11,14,$32B,$113.37 ,$26.39 ,328.40%,185.20%,143.20%,Add NXPI to your Favorites
+,NXPI,,,,,,,,,
+,Lululemon Athletica,12/22/10,8,$38B,$295.13 ,$35.85 ,723.50%,195.30%,528.20%,Add LULU to your Favorites
+,LULU Now,,,,,,,,,
+,51job,7/28/10,9,$5B,$70.43 ,$12.09 ,469.20%,239.10%,230.10%,Add JOBS to your Favorites
+,JOBS,,,,,,,,,
+,Universal Display,6/23/10,10,$7B,$151.33 ,$17.54 ,742.80%,243.90%,498.80%,Add OLED to your Favorites
+,OLED,,,,,,,,,
+,New Oriental Education & Technology Group,4/28/10,10,$21B,$132.98 ,$22.13 ,496.90%,216.40%,280.50%,Add EDU to your Favorites
+,EDU,,,,,,,,,
+,LivePerson,2/24/10,12,$3B,$40.78 ,$6.73 ,468.00%,242.00%,226.10%,Add LPSN to your Favorites
+,LPSN,,,,,,,,,
+,Exact Sciences Corporate Action Details,2/24/10,15,$12B,$83.88 ,$22.49 ,279.50%,242.00%,37.60%,Add EXAS to your Favorites
+,EXAS,,,,,,,,,
+,American Tower,12/23/09,14,$113B,$254.36 ,$36.74 ,591.80%,238.50%,353.30%,Add AMT to your Favorites
+,AMT,,,,,,,,,
+,FactSet Research Systems,8/19/09,9,$11B,$342.16 ,$48.43 ,513.70%,283.30%,230.40%,Add FDS to your Favorites
+,FDS,,,,,,,,,
+,Alphabet (C shares) and Alphabet (A shares) Corporate Action Details,7/15/09,5,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,555.00%,310.50%,244.50%,N/A Corporate Action Details
+,GOOG GOOGL Starter,,,,,,,,,
+,Copart,4/15/09,8,$19B,$81.50 ,$7.54 ,977.70%,352.00%,625.70%,Add CPRT to your Favorites
+,CPRT,,,,,,,,,
+,Check Point Software Technologies,4/15/09,9,$15B,$106.39 ,$24.17 ,334.50%,352.00%,-17.40%,Add CHKP to your Favorites
+,CHKP,,,,,,,,,
+,Open Text,3/18/09,14,$11B,$43.24 ,$7.25 ,484.50%,385.60%,98.90%,Add OTEX to your Favorites
+,OTEX,,,,,,,,,
+,MercadoLibre,2/18/09,10,$47B,$971.44 ,$14.13 ,6650.90%,390.70%,6260.30%,Add MELI to your Favorites
+,MELI Starter,,,,,,,,,
+,Monster Beverage,1/21/09,7,$36B,$69.06 ,$5.56 ,1125.40%,361.60%,763.70%,Add MNST to your Favorites
+,MNST,,,,,,,,,
+,Salesforce.com,1/21/09,8,$167B,$188.34 ,$6.89 ,2592.10%,361.60%,2230.40%,CRM is in your Favorites
+,CRM Starter,,,,,,,,,
+,Intuitive Surgical,11/19/08,7,$65B,$555.11 ,$40.36 ,1274.90%,383.30%,891.60%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,Sohu.com Corporate Action Details,11/19/08,13,$354M,$9.38 ,$8.71 ,-75.80%,383.30%,-459.10%,Add SOHU to your Favorites
+,SOHU,,,,,,,,,
+,Baidu,8/20/08,7,$42B,$123.73 ,$32.12 ,277.80%,207.90%,70.00%,Add BIDU to your Favorites
+,BIDU,,,,,,,,,
+,AeroVironment,8/20/08,11,$2B,$78.84 ,$32.95 ,117.90%,207.90%,-90.00%,Add AVAV to your Favorites
+,AVAV,,,,,,,,,
+,VMware,5/21/08,11,$64B,$149.45 ,$54.32 ,181.20%,183.70%,-2.60%,Add VMW to your Favorites
+,VMW,,,,,,,,,
+,Alphabet (A shares) and Alphabet (C shares) Corporate Action Details,5/21/08,5,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,421.80%,183.70%,238.10%,N/A Corporate Action Details
+,GOOGL GOOG Starter,,,,,,,,,
+,IPG Photonics,3/19/08,8,$8B,$157.58 ,$13.88 ,1032.80%,204.80%,828.00%,Add IPGP to your Favorites
+,IPGP,,,,,,,,,
+,Take-Two Interactive,12/19/07,7,$15B,$140.40 ,$18.75 ,646.00%,174.00%,472.00%,Add TTWO to your Favorites
+,TTWO,,,,,,,,,
+,Infinera,11/21/07,15,$1B,$5.88 ,$19.99 ,-71.20%,181.40%,-252.60%,Add INFN to your Favorites
+,INFN,,,,,,,,,
+,Take-Two Interactive,9/19/07,7,$15B,$140.40 ,$16.93 ,726.20%,161.60%,564.60%,Add TTWO to your Favorites
+,TTWO,,,,,,,,,
+,Under Armour (A Shares) and Under Armour (C Shares) Corporate Action Details,9/19/07,14,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,11.10%,161.60%,-150.60%,N/A Corporate Action Details
+,UAA UA,,,,,,,,,
+,Vertex Pharmaceuticals,7/18/07,7,$75B,$295.15 ,$29.15 ,898.90%,159.60%,739.30%,Add VRTX to your Favorites
+,VRTX,,,,,,,,,
+,BioMarin Pharmaceutical,5/16/07,13,$22B,$124.22 ,$18.16 ,564.30%,165.80%,398.40%,Add BMRN to your Favorites
+,BMRN,,,,,,,,,
+,IPG Photonics,4/18/07,8,$8B,$157.58 ,$20.52 ,666.10%,173.80%,492.30%,Add IPGP to your Favorites
+,IPGP,,,,,,,,,
+,Exelixis,3/21/07,9,$7B,$23.79 ,$10.00 ,134.50%,181.20%,-46.70%,Add EXEL to your Favorites
+,EXEL,,,,,,,,,
+,Chipotle Mexican Grill,1/17/07,11,$29B,"$1,048.90 ",$60.60 ,1629.30%,183.10%,1446.20%,CMG is in your Favorites
+,CMG,,,,,,,,,
+,Blackbaud,11/15/06,15,$3B,$57.66 ,$22.99 ,148.80%,190.90%,-42.20%,Add BLKB to your Favorites
+,BLKB,,,,,,,,,
+,Baidu,10/18/06,7,$42B,$123.73 ,$8.34 ,1355.80%,198.00%,1157.80%,Add BIDU to your Favorites
+,BIDU,,,,,,,,,
+,Momenta Pharmaceuticals,8/16/06,16,$4B,$38.61 ,$15.41 ,144.90%,215.10%,-70.20%,Add MNTA to your Favorites
+,MNTA,,,,,,,,,
+,Under Armour (C Shares) and Under Armour (A Shares) Corporate Action Details,7/19/06,14,N/A Corporate Action Details,N/A Corporate Action Details,N/A Corporate Action Details,76.10%,224.60%,-148.50%,N/A Corporate Action Details
+,UA UAA,,,,,,,,,
+,Intuitive Surgical,2/15/06,7,$65B,$555.11 ,$34.06 ,1529.50%,221.90%,1307.60%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,iRobot,12/21/05,13,$2B,$82.15 ,$31.41 ,154.10%,227.30%,-73.20%,Add IRBT to your Favorites
+,IRBT,,,,,,,,,
+,Exelixis,10/19/05,9,$7B,$23.79 ,$7.34 ,219.50%,246.90%,-27.40%,Add EXEL to your Favorites
+,EXEL,,,,,,,,,
+,Intuitive Surgical,9/21/05,7,$65B,$555.11 ,$23.23 ,2289.30%,243.20%,2046.10%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,Universal Display,5/18/05,10,$7B,$151.33 ,$8.97 ,1547.30%,252.40%,1294.90%,Add OLED to your Favorites
+,OLED,,,,,,,,,
+,Intuitive Surgical,3/16/05,7,$65B,$555.11 ,$14.72 ,3669.30%,252.70%,3416.60%,Add ISRG to your Favorites
+,ISRG Now,,,,,,,,,
+,Intercontinental Exchange Corporate Action Details,1/19/05,11,$50B,$92.83 ,$28.83 ,693.40%,254.90%,438.50%,Add ICE to your Favorites
+,ICE,,,,,,,,,
+,Vertex Pharmaceuticals,1/19/05,7,$75B,$295.15 ,$10.48 ,2678.40%,254.90%,2423.50%,Add VRTX to your Favorites
+,VRTX,,,,,,,,,
+,NetEase,12/15/04,6,$60B,$436.06 ,$11.30 ,3772.30%,249.20%,3523.10%,Add NTES to your Favorites
+,NTES,,,,,,,,,
